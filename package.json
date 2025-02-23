@@ -22,10 +22,10 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/miryarik/drop-down-my.git"
+        "url": "git+https://github.com/miryarik/drop-down-min.git"
     },
     "bugs": {
-        "url": "https://github.com/miryarik/drop-down-my/issues"
+        "url": "https://github.com/miryarik/drop-down-min/issues"
     },
-    "homepage": "https://github.com/miryarik/drop-down-my#readme"
+    "homepage": "https://github.com/miryarik/drop-down-min#readme"
 }
