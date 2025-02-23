@@ -1,4 +1,4 @@
-export default class DropDown {
+class DropDown {
     constructor(selector, inactiveTxt = "Show", activeTxt = "Hide") {
         this.dropDown = document.querySelector(selector);
         if (!this.dropDown) return;
@@ -38,3 +38,5 @@ export default class DropDown {
     }
 }
 
+
+module.exports = DropDown;
