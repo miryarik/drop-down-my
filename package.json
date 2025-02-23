@@ -1,6 +1,6 @@
 {
     "name": "drop-down-min",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "A basic reusable drop-down",
     "main": "./dist/main.js",
     "scripts": {
